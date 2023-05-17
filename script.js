@@ -1,4 +1,4 @@
-window.alert("Working");
+window.alert("Working1");
 let urls = {
 "incog":"https://puce-poised-panther.cyclic.app/",
 "hyper":"https://navy-blue-dolphin-tutu.cyclic.app/",
